@@ -1,3 +1,6 @@
-baseurl = "/"
+baseurl = "http://localhost:3000/"
 languageCode = "de-de"
 title = "Professor PC-Archiv"
+disableRSS = true
+disableSitemap = true
+canonifyURLs = true

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by VideoSEO sitemap -->
+<!-- Generated-on="February 22, 2013, 5:31 pm" -->
+<?xml-stylesheet type="text/xsl" href="http://prof-pc.de/wp-content/plugins/videoseo/videoseo.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+ <url>
+ <loc>http://prof-pc.de/digitaler-optischer-audioausgang-am-mac-mini-mit-adapter/</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/xmxfflS5fdA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/xmxfflS5fdA/2.jpg</video:thumbnail_loc>
+  <video:title>Nutzung digitaler Audiosignale am Mac Mini</video:title>
+  <video:description>In diesem Artikel beschreibe ich, wie man den Klinkensteckerausgang des Mac Minis nutzen kann, um digitalen Ton über Optical Audio (Toslink) abzugreifen.</video:description>
+  <video:publication_date>2012-09-13T16:45:27+00:00</video:publication_date>
+   <video:tag>adapter</video:tag>
+   <video:tag>apple</video:tag>
+   <video:tag>billig</video:tag>
+   <video:tag>digital</video:tag>
+   <video:tag>digitaler ton</video:tag>
+   <video:tag>kabel</video:tag>
+   <video:tag>klinkenstecker</video:tag>
+   <video:tag>mac</video:tag>
+   <video:tag>mac mini</video:tag>
+   <video:tag>optical audio</video:tag>
+   <video:tag>optical sound</video:tag>
+   <video:tag>optischer sound</video:tag>
+   <video:tag>toslink</video:tag>
+   <video:category>Allgemein</video:category>
+ </video:video>
+ </url>
+ <url>
+ <loc>http://prof-pc.de/adsense-optimierung-nutzer-erfreuen-und-geld-verdienen/</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/oUWkV5N4yi4</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/oUWkV5N4yi4/2.jpg</video:thumbnail_loc>
+  <video:title>AdSense-Optimierung - Nutzer erfreuen und Geld verdienen?</video:title>
+  <video:description>Wie optimieren wir unsere Webseite für AdSense, um einerseits größtmögliche Einnahmen zu generieren, aber andererseits die User nicht zu verärgern?</video:description>
+  <video:publication_date>2012-04-06T12:53:45+00:00</video:publication_date>
+   <video:tag>adsense</video:tag>
+   <video:tag>adsense für blogger</video:tag>
+   <video:tag>adsense optimierung</video:tag>
+   <video:tag>contaxe</video:tag>
+   <video:tag>cpc</video:tag>
+   <video:tag>cpc-netwerke</video:tag>
+   <video:tag>einfach</video:tag>
+   <video:tag>einfacher geld verdienen</video:tag>
+   <video:tag>geld</video:tag>
+   <video:tag>google</video:tag>
+   <video:tag>google adsense</video:tag>
+   <video:tag>google adsense optimierung</video:tag>
+   <video:tag>im internet geld verdienen</video:tag>
+   <video:tag>optimierung</video:tag>
+   <video:tag>schnell</video:tag>
+   <video:tag>verdienen</video:tag>
+   <video:tag>video</video:tag>
+   <video:tag>wie optimiere ich meine seite für adsense</video:tag>
+   <video:tag>wordpress</video:tag>
+   <video:tag>wordpress plugin für adsense</video:tag>
+   <video:category>Allgemein</video:category>
+ </video:video>
+ </url>
+ <url>
+ <loc>http://prof-pc.de/google-testet-selbstfahrendes-auto-mit-fast-blindem-fahrer-video/</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/cdgQpa1pUUE</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/cdgQpa1pUUE/2.jpg</video:thumbnail_loc>
+  <video:title>Google testet selbstfahrendes Auto mit fast blindem Fahrer: Video</video:title>
+  <video:description>Google lässt den zu 95% blinden Steve Mahan in einem selbstfahrenden Auto Probe fahren. Ein Video zeigt das Ergebnis...</video:description>
+  <video:publication_date>2012-03-30T10:17:05+00:00</video:publication_date>
+   <video:tag>auto</video:tag>
+   <video:tag>google</video:tag>
+   <video:tag>kann ein auto von alleine fahren?</video:tag>
+   <video:tag>selbstfahrend</video:tag>
+   <video:tag>selbstfahrendes auto</video:tag>
+   <video:tag>steve mahan</video:tag>
+   <video:tag>video</video:tag>
+   <video:tag>youtube</video:tag>
+   <video:category>News</video:category>
+ </video:video>
+ </url>
+ <url>
+ <loc>http://prof-pc.de/zauberer-mit-mehreren-ipads/</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/53_qvMQfvOE</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/53_qvMQfvOE/2.jpg</video:thumbnail_loc>
+  <video:title>Zauberer mit mehreren iPads</video:title>
+  <video:description>Zwei Zauberer führen erstaunliche Tricks mit mehreren iPads vor...</video:description>
+  <video:publication_date>2012-03-25T11:00:24+00:00</video:publication_date>
+   <video:category>Fun</video:category>
+ </video:video>
+ </url>
+</urlset>
