@@ -1,5 +1,15 @@
 {{ partial "header" . }}
 
-<h1>Hugo with Gulp, PostCSS and Webpack</h1>
+<h1>Time to Say Goodbye…</h1>
+<p>
+    TODO
+</p>
+
+<main>
+    {{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
+    {{ range $paginator.Pages }}
+    <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
+    {{ end }}
+</main>
 
 {{ partial "footer" . }}
