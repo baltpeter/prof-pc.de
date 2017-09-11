@@ -1,6 +1,5 @@
-baseurl = "http://localhost:3000/"
+baseurl = "https://archive.prof-pc.de/"
 languageCode = "de-de"
 title = "Professor PC-Archiv"
-disableRSS = true
-disableSitemap = true
+disableKinds = ["RSS", "sitemap", "taxonomy", "taxonomyTerm"]
 canonifyURLs = true

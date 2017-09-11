@@ -63,3 +63,8 @@ figure > * {
     background-color: #FEEFB3;
     padding: 7px 20px;
 }
+
+/* Let's rick the rolls */
+.rr {
+    color: #333 !important;
+}

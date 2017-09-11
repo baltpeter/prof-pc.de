@@ -10,11 +10,11 @@
         <aside id="main-article-meta">
             {{ if not .Params.static }}Veröffentlicht: <span class="meta-date"><time>{{ .Date.Format "2006-01-02T15:04" }}</time></span>{{ end }}
         </aside>
+
+        <div id="main-article-content" class="content">
+            {{ .Content }}
+        </div>
     </article>
 </main>
-
-<div id="main-article-content" class="content">
-    {{ .Content }}
-</div>
 
 {{ partial "footer" . }}

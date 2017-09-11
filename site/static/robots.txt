@@ -1,0 +1,10 @@
+# The information on this website is (likely) outdated and should not be crawled by search engines
+User-agent: *
+Disallow: /
+
+# For archival purposes, we want to allow archive.org. There is no documentation (AFAIK) about this though, so this might not work.
+User-agent: ia_archiver
+Disallow:
+
+User-agent: archive.org_bot
+Disallow:

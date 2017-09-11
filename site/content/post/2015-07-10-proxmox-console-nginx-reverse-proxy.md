@@ -22,8 +22,7 @@ Die Weboberfläche des <a href="https://www.proxmox.com/en/" target="_blank">Pr
 
 Grundsätzlich lässt sich dafür die übliche Konfiguration eines Nginx-Reverse Proxys verwenden (mit einer Ausnahme, s. unten):
 
-<div class="gist-oembed" data-gist="baltpeter/3daf2469f972402b07ac.json">
-</div>
+{{< gist baltpeter 3daf2469f972402b07ac >}}
 
 Wichtig ist es hierbei natürlich, die folgenden Werte anzupassen:
 

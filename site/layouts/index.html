@@ -1,15 +1,11 @@
 {{ partial "header" . }}
 
-<h1>Time to Say Goodbye…</h1>
-<p>
-    TODO
-</p>
-
 <main>
-    {{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
-    {{ range $paginator.Pages }}
-    <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
-    {{ end }}
+    <article class="main-article">
+        <div id="main-article-content" class="content">
+            {{ .Content }}
+        </div>
+    </article>
 </main>
 
 {{ partial "footer" . }}
