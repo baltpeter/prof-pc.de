@@ -1,4 +1,4 @@
-baseurl = "https://archive.prof-pc.de/"
+baseurl = "https://prof-pc.de/"
 languageCode = "de-de"
 title = "Professor PC-Archiv"
 disableKinds = ["RSS", "sitemap", "taxonomy", "taxonomyTerm"]
