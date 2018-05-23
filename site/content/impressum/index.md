@@ -15,7 +15,7 @@ Deutschland
 
 Telefon (mobil): +49 176 913 77 604  
 Telefax: +49 531 615 4 288  
-E-Mail: hi@bn.al ([GPG key](https://keybase.io/baltpeter))
+E-Mail: hi@bn.al ([PGP-Key](https://benjamin-altpeter.de/00EB2372.asc), auch verfügbar über [Keybase](https://keybase.io/baltpeter))
 
 **Verantwortlich für den Inhalt:**  
 Benjamin Altpeter, Schreinerweg 6, 38126 Braunschweig, Deutschland
