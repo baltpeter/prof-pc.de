@@ -6,10 +6,6 @@ The content inside the `site/content` and `site/static/uploads` directories is
 Copyright 2010—2015 Benjamin Altpeter <hi@bn.al>
 and licensed under a a Creative Commons Attribution 4.0 International License.
 
-This repository is based on the Victor Hugo template (https://github.com/netlify/victor-hugo),
-Copyright 2016 Netlify <hello@netlify.com>
-and licensed under the MIT license.
-
 ---
 
 The MIT License

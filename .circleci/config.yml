@@ -15,8 +15,7 @@ jobs:
       - run:
           command: |
             sudo npm i -g dattel-client
-            npm i
-            npm run build
+            hugo
             dattel deploy
 
 workflows:
